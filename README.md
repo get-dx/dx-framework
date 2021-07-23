@@ -1,6 +1,10 @@
 # DX framework
 This repository contains information and supplementary material about the research paper: "An Actionable Framework for Understanding and
 Improving Developer Experience"
+
+![Illustration of the Actionable DX Framework](https://github.com/get-dx/dx-framework/blob/main/Actionable-DX-Framework.jpg)
+
+
 ## Supplemental Material
 - [Interview Guideline](https://github.com/get-dx/dx-framework/blob/main/supplementary%20material/Appendix%20-%20Interview%20Guideline.docx)
 - [Interview Consent Form](https://github.com/get-dx/dx-framework/blob/main/supplementary%20material/Interview%20-%20Participant%20Consent%20Form.docx)
