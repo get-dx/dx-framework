@@ -2,7 +2,7 @@
 This repository contains information and supplementary material about the research paper: "An Actionable Framework for Understanding and
 Improving Developer Experience"
 
-![Illustration of the Actionable DX Framework](https://github.com/get-dx/dx-framework/blob/main/Actionable-DX-Framework.jpg)
+![Illustration of the DX Framework](https://github.com/get-dx/dx-framework/blob/main/DX-Framework.jpg)
 
 
 ## Supplemental Material
